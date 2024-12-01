@@ -1,0 +1,24 @@
+
+---
+
+### .gitignore
+
+```plaintext
+# Byte-compiled files
+*.pyc
+*.pyo
+__pycache__/
+
+# PyInstaller build files
+*.spec
+dist/
+build/
+temp_script.py
+
+# Operating system files
+.DS_Store
+Thumbs.db
+
+# Virtual environment
+env/
+venv/

@@ -1,0 +1,8 @@
+# Normalize text files
+* text=auto
+
+# Treat specific file types as binary
+*.exe binary
+*.py binary
+*.dll binary
+*.so binary
